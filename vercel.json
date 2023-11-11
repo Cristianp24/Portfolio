@@ -2,6 +2,6 @@
 {
   "version": 2,
   "rewrites": [{ "source": "/(.*)", "destination": "/" }],
-  "routes": [{ "handle": "filesystem" }],
+   "routes": [{ "handle": "filesystem" }],
   "cleanUrls": true
 }
