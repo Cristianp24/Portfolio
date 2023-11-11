@@ -21,9 +21,8 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Cristian</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Developer Web FullStack      <br className='sm:block hidden' /> 
-            <br />          
-            <button className='bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary hover:scale-105' onClick={openCV}>View CV</button>
+            Developer Web FullStack      <br className='sm:block hidden' />           
+            <button className='mt-5 ml-5 mb-5 bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary hover:scale-105' onClick={openCV}>View CV</button>
             
           </p>
           <img src={perfil} className='Img-Home' />
