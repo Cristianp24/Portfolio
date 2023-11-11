@@ -158,7 +158,7 @@ const Contact = () => {
                 <p>Thank you. I will get back to you as soon as possible.</p>
               )}
               <br />
-              <button className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary hover:scale-105" onClick={closeModal}>Close</button>
+              <button className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary hover:scale-105  mx-auto" onClick={closeModal}>Close</button>
             </div>
           )}
         </div>
