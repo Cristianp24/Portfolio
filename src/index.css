@@ -231,5 +231,7 @@ padding: 5px;
 
 .icons-app:hover {
   cursor: pointer;
+  transform: scale(1.2);
+  opacity: 0.6;
 }
 
