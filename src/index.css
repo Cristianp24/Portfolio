@@ -232,3 +232,7 @@
   align-items: center;
 
 }
+
+.icons-app:hover {
+  cursor: pointer;
+}
