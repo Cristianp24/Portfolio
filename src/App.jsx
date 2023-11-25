@@ -10,7 +10,7 @@ const handleGit = () => {
   window.open("https://github.com/Cristianp24");
 }
 const handleLink = () => {
-  window.open("https://www.linkedin.com/in/cristian-peralta-a1a229263/");
+  window.open("https://www.linkedin.com/in/cristianperaltaa/");
 }
 
 
