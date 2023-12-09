@@ -3,7 +3,7 @@ import perfil from "../assets/perfil.png";
 const Hero = () => {
 
   const openCV = () => {
-    window.open('https://drive.google.com/file/d/1yuKhL8z9eR1cD09Sy9zG4E3UuJLcqa-J/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1Bxdufif1Asd6vkKogCn7QJ_QjEEVs05v/view?usp=drive_link', '_blank');
   }
 
   return (
