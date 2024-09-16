@@ -214,6 +214,7 @@ padding: 20px;
  
 }
 
+
 .button-cv {
 
     margin-top: 1.25rem;
@@ -241,8 +242,8 @@ padding: 20px;
 
 @media screen and (max-width: 768px) {
   .Img-Home {
-   width: 300px;
-   margin-left: 10%;
+   width: 200px;
+   margin-left: 30%;
    margin-top: 10px;
   }
 

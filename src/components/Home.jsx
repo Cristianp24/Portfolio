@@ -1,5 +1,5 @@
 import { styles } from "../styles";
-import perfil from "../assets/perfil.png";
+import perfil from "../assets/perfil.jpeg";
 const Hero = () => {
 
   const openCV = () => {
