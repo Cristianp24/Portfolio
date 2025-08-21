@@ -17,7 +17,7 @@ import jira from './tech/jira.png';
 import rickandmorty from "./rickandmorty.png";
 import pokeapi from "./pokeapi.png";
 import motos from "./motos.png";
-
+import api from "./api.png";
 
 export {
   github,
@@ -36,5 +36,6 @@ export {
   jira,
   rickandmorty,
   pokeapi,
-  motos
+  motos,
+  api,
 };

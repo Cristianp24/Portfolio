@@ -27,8 +27,14 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Developer Web FullStack      <br className='sm:block hidden' />      <button className='button-cv' onClick={openCV}>View CV</button>       
            
-            <img src={perfil} className='Img-Home' />
           </p>
+           <div className='Img-Home'>
+          <img 
+            src={perfil} 
+            alt="Cristian - Full Stack Developer"
+            loading="lazy"
+          />
+        </div>
         </div>
       </div>
 
