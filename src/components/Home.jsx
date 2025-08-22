@@ -25,7 +25,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Cristian</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Developer Web FullStack      <br className='sm:block hidden' />      <button className='button-cv' onClick={openCV}>View CV</button>       
+            Backend Web Developer       <br className='sm:block hidden' />      <button className='button-cv' onClick={openCV}>View CV</button>       
            
           </p>
            <div className='Img-Home'>
