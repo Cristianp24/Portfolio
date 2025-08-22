@@ -87,6 +87,66 @@ const technologies = [
 
 const projects = [
   {
+    name: " ToDo Rest Api ",
+    description:
+      "Web application that allows users to create, update, delete and manage their tasks efficiently using a RESTful API.",
+    tags: [
+      {
+        name: "NodeJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ExpressJs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Swagger",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Cache-Rate Limit",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: api,
+    source_code_link: "https://github.com/Cristianp24/ToDo",
+    source_deploy_link: "https://todo-restapi-za6s.onrender.com/",
+  },
+  {
+    name: " Mitsumichi ",
+    description:
+      "E-commerce where all can buy differents Motobikes,with filters,sorts,google auth and dashboard admin",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "vite",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "express",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: motos,
+    source_code_link: "https://github.com/Cristianp24/Mitsumichi",
+    source_deploy_link: "https://mitsumichi-develop.vercel.app/",
+  },
+  {
     name: "Rick & Morty",
     description:
       "SPA that allows users to search for and view information about Rick and Morty characters and others functionalities.",
@@ -142,66 +202,8 @@ const projects = [
     source_code_link: "https://github.com/Cristianp24/PI-Pokemon-main",
     source_deploy_link: "https://mitsumichi-develop.vercel.app/",
   },
-  {
-    name: " Mitsumichi ",
-    description:
-      "E-commerce where all can buy differents Motobikes,with filters,sorts,google auth and dashboard admin",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "vite",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "express",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "yellow-text-gradient",
-      },
-    ],
-    image: motos,
-    source_code_link: "https://github.com/Cristianp24/Mitsumichi",
-    source_deploy_link: "https://mitsumichi-develop.vercel.app/",
-  },
-  {
-    name: " ToDo Rest Api ",
-    description:
-      "Web application that allows users to create, update, delete and manage their tasks efficiently using a RESTful API.",
-    tags: [
-      {
-        name: "NodeJs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "ExpressJs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Swagger",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "MongoDB",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "Cache-Rate Limit",
-        color: "yellow-text-gradient",
-      },
-    ],
-    image: api,
-    source_code_link: "https://github.com/Cristianp24/ToDo",
-    source_deploy_link: "https://todo-restapi-za6s.onrender.com/",
-  },
+  
+  
 ];
 
 export { technologies, projects };
